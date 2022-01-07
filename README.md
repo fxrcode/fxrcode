@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Leetcode Stats](https://leetcode.card.workers.dev/hzhang413?theme=auto&font=baloo&extension=activity)
-![image](https://user-images.githubusercontent.com/13307594/148602747-25cd44dd-fc30-4084-806c-739aeb2e0625.png)
+![image](./cyberpunk-ghost-in-the-shell.gif)
