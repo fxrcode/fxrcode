@@ -1,5 +1,6 @@
 ### Hi there 👋
-* Meditation via Leetcode
+* Daily Meditation via Leetcode/Competitive-Programming.
+* Focus on Database Kernel, Distributed System, Literature, and Philosophy.
 
 <!--
 **fxrcode/fxrcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
