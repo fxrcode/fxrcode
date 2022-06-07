@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Leetcode Stats](https://leetcode.card.workers.dev/?username=hzhang413)](https://leetcode.com/hzhang413)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hzhang413)](https://leetcode.com/hzhang413)
 ![image](./cyberpunk-ghost-in-the-shell.gif)
-![image](./gis-archive.png)
+![image](./cyberpunk-ghost-in-the-shell.gif)
