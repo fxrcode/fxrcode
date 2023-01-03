@@ -2,6 +2,9 @@
 * Daily Meditation via Leetcode/Competitive-Programming.
 * Focus on OS/Database Kernel, Distributed System, Literature, and Philosophy.
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **fxrcode/fxrcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![image](./gis-archive.png)
 -->
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hzhang413?theme=light&font=Julee&ext=contest)](https://leetcode.com/hzhang413)
-![image](./cyberpunk-ghost-in-the-shell.gif)
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hzhang413?font=Fira+Mono)](https://leetcode.com/hzhang413)
+<!-- ![image](./cyberpunk-ghost-in-the-shell.gif)
+![image](./gis-archive.png) -->
