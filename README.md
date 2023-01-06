@@ -3,6 +3,11 @@
 * Focus on OS/Database Kernel, Distributed System, Literature, and Philosophy.
 
 <!--START_SECTION:waka-->
+
+```text
+Other        9 hrs 53 mins   ██████████████████████░░░   88.42 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
