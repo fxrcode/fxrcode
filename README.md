@@ -3,6 +3,20 @@
 * Focus on OS/Database Kernel, Distributed System, Literature, and Philosophy.
 
 <!--START_SECTION:waka-->
+
+```text
+From: 07 January 2023 - To: 08 January 2023
+
+Total Time: 38 mins
+
+Markdown   28 mins         >>>>>>>>>>>>>>>>>>-------   73.55 %
+sh         5 mins          >>>>---------------------   14.85 %
+Go         3 mins          >>-----------------------   09.09 %
+Python     0 secs          -------------------------   01.80 %
+YAML       0 secs          -------------------------   00.61 %
+Other      0 secs          -------------------------   00.10 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
