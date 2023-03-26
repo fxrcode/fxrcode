@@ -5,16 +5,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 23 March 2023
+From: 07 January 2023 - To: 24 March 2023
 
-Total Time: 29 hrs 9 mins
+Total Time: 29 hrs 31 mins
 
-Markdown   13 hrs 17 mins  >>>>>>>>>>>--------------   45.56 %
-sh         11 hrs 21 mins  >>>>>>>>>>---------------   38.96 %
-Python     3 hrs 52 mins   >>>----------------------   13.27 %
-Go         21 mins         -------------------------   01.25 %
-JSON       7 mins          -------------------------   00.42 %
-YAML       3 mins          -------------------------   00.22 %
+Markdown   13 hrs 23 mins  >>>>>>>>>>>--------------   45.35 %
+sh         11 hrs 25 mins  >>>>>>>>>>---------------   38.67 %
+Python     4 hrs 4 mins    >>>----------------------   13.80 %
+Go         21 mins         -------------------------   01.23 %
+JSON       7 mins          -------------------------   00.41 %
+YAML       3 mins          -------------------------   00.21 %
 ```
 
 <!--END_SECTION:waka-->
