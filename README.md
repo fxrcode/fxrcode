@@ -19,6 +19,6 @@ sh           22 mins         ▓░░░░░░░░░░░░░░░░
 
 -------
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hzhang413?font=Fira+Mono)](https://leetcode.com/hzhang413)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hzhang413?font=Fira+Mono)](https://leetcode.com/fxrc)
 <!-- ![image](./cyberpunk-ghost-in-the-shell.gif)
 ![image](./gis-archive.png) -->
