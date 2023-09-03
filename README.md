@@ -8,10 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript     10 mins         ████████████░░░░░░░░░░░░░   48.36 %
-JavaScript   8 mins          █████████░░░░░░░░░░░░░░░░   36.39 %
-Other        3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 %
-Ezhil        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
