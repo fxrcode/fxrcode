@@ -8,6 +8,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
+From: 28 November 2024 - To: 05 December 2024
+
 Total Time: 13 hrs 23 mins
 
 Python       5 hrs 55 mins   ███████████░░░░░░░░░░░░░░   44.27 %
