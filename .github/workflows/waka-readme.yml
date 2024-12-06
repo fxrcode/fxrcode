@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          SHOW_TITLE: true # optional
           TIME_RANGE: last_7_days # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
