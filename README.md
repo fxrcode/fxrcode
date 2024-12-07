@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2024 - To: 05 December 2024
+From: 29 November 2024 - To: 06 December 2024
 
-Total Time: 13 hrs 23 mins
+Total Time: 16 hrs 51 mins
 
-Python       5 hrs 55 mins   ███████████░░░░░░░░░░░░░░   44.27 %
-Go           5 hrs 45 mins   ██████████▓░░░░░░░░░░░░░░   43.04 %
-Terraform    1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-YAML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
-Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Python           8 hrs 43 mins   █████████████░░░░░░░░░░░░   51.75 %
+Go               6 hrs 1 min     █████████░░░░░░░░░░░░░░░░   35.73 %
+Terraform        1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
+Makefile         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+YAML             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
