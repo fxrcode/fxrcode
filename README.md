@@ -8,15 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2024 - To: 13 December 2024
+From: 07 December 2024 - To: 14 December 2024
 
-Total Time: 3 hrs 23 mins
+Total Time: 0 secs
 
-Python     2 hrs 51 mins   ████████████████████▒░░░░   81.62 %
-Markdown   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-Makefile   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-Other      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-TOML       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
