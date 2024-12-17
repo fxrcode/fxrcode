@@ -8,11 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2024 - To: 15 December 2024
+From: 09 December 2024 - To: 16 December 2024
 
-Total Time: 0 secs
+Total Time: 2 hrs 24 mins
 
-No activity tracked
+Go         2 hrs 19 mins   ███████████████████████▒░   93.99 %
+Other      4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+C++        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
