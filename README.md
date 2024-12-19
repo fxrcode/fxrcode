@@ -8,12 +8,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 December 2024 - To: 17 December 2024
+From: 11 December 2024 - To: 18 December 2024
 
 Total Time: 4 hrs 47 mins
 
-Go         3 hrs 24 mins   █████████████████░░░░░░░░   68.44 %
-Python     1 hr 16 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
+Go         3 hrs 24 mins   █████████████████░░░░░░░░   68.43 %
+Python     1 hr 16 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
 Other      12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 C++        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
