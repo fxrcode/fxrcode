@@ -8,14 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2024 - To: 30 December 2024
+From: 24 December 2024 - To: 31 December 2024
 
-Total Time: 2 hrs 8 mins
+Total Time: 2 hrs 12 mins
 
-Go         2 hrs 7 mins    ████████████████████████▓   98.61 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Go         2 hrs 11 mins   ████████████████████████▓   98.66 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
