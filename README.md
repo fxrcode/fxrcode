@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2025 - To: 10 February 2025
+From: 04 February 2025 - To: 11 February 2025
 
-Total Time: 10 hrs 46 mins
+Total Time: 10 hrs 39 mins
 
-Python       9 hrs 47 mins   █████████████████████▒░░░   85.78 %
-Other        38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
-TOML         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Makefile     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Python       9 hrs 41 mins   █████████████████████▒░░░   85.15 %
+Other        44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+TOML         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+YAML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Makefile     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
