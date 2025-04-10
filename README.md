@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 April 2025 - To: 08 April 2025
+From: 02 April 2025 - To: 09 April 2025
 
-Total Time: 1 hr 40 mins
+Total Time: 13 mins
 
-Python     1 hr 27 mins    █████████████████████▓░░░   86.71 %
-TOML       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Markdown   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Text       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+TOML       4 mins          ████████▒░░░░░░░░░░░░░░░░   33.72 %
+Markdown   4 mins          ████████▒░░░░░░░░░░░░░░░░   32.73 %
+Text       3 mins          ███████▒░░░░░░░░░░░░░░░░░   29.38 %
+YAML       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
