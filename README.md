@@ -8,14 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2025 - To: 16 April 2025
+From: 10 April 2025 - To: 17 April 2025
 
-Total Time: 2 hrs 40 mins
+Total Time: 2 hrs 44 mins
 
-Python     2 hrs 33 mins   ████████████████████████░   95.41 %
-Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-SQL        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python     2 hrs 36 mins   ████████████████████████░   95.51 %
+Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+SQL        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
