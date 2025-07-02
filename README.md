@@ -8,12 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2025 - To: 30 June 2025
+From: 24 June 2025 - To: 01 July 2025
 
-Total Time: 4 mins
+Total Time: 25 mins
 
-Python   3 mins          ██████████████████▒░░░░░░   73.63 %
-JSON     1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
+OCaml    20 mins         ████████████████████░░░░░   80.41 %
+Python   3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+JSON     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
 ```
 
 <!--END_SECTION:waka-->
