@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 July 2025 - To: 29 July 2025
+From: 23 July 2025 - To: 30 July 2025
 
-Total Time: 1 hr
+Total Time: 1 hr 19 mins
 
-JSON           29 mins         ███████████▓░░░░░░░░░░░░░   46.37 %
-Gerber Image   17 mins         ███████░░░░░░░░░░░░░░░░░░   27.74 %
-OpenEdge ABL   11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
-Other          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
-JavaScript     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+JSON           29 mins         █████████░░░░░░░░░░░░░░░░   35.73 %
+Gerber Image   24 mins         ███████▓░░░░░░░░░░░░░░░░░   30.45 %
+OpenEdge ABL   11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+Bash           10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
+Other          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka-->
