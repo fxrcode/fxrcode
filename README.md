@@ -8,11 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2025 - To: 25 August 2025
+From: 19 August 2025 - To: 26 August 2025
 
-Total Time: 0 secs
+Total Time: 42 mins
 
-No activity tracked
+C++           21 mins         ████████████▓░░░░░░░░░░░░   50.97 %
+CMake         17 mins         ██████████▒░░░░░░░░░░░░░░   41.11 %
+Objective-C   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Markdown      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Python        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
