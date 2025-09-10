@@ -8,12 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2025 - To: 08 September 2025
+From: 02 September 2025 - To: 09 September 2025
 
-Total Time: 7 mins
+Total Time: 25 mins
 
-SQL    5 mins          ████████████████░░░░░░░░░   64.41 %
-JSON   2 mins          █████████░░░░░░░░░░░░░░░░   35.59 %
+JSON       18 mins         █████████████████▓░░░░░░░   71.13 %
+SQL        6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
+Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
