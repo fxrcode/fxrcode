@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2025 - To: 14 September 2025
+From: 09 September 2025 - To: 16 September 2025
 
-Total Time: 49 mins
+Total Time: 36 mins
 
-JSON         20 mins         ██████████░░░░░░░░░░░░░░░   40.49 %
-HTML         11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
-XML          9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.76 %
-JavaScript   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-SQL          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+HTML         11 mins         ████████▒░░░░░░░░░░░░░░░░   33.22 %
+XML          9 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
+JavaScript   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
+JSON         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
+SQL          3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
 ```
 
 <!--END_SECTION:waka-->
