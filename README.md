@@ -8,15 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2025 - To: 16 September 2025
+From: 11 September 2025 - To: 18 September 2025
 
-Total Time: 36 mins
+Total Time: 0 secs
 
-HTML         11 mins         ████████▒░░░░░░░░░░░░░░░░   33.22 %
-XML          9 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.03 %
-JavaScript   6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.29 %
-JSON         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-SQL          3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
