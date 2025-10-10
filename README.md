@@ -8,11 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-Total Time: 3 mins
+Total Time: 6 mins
 
-JSON   3 mins          █████████████████████████   100.00 %
+JSON       3 mins          ███████████████░░░░░░░░░░   59.74 %
+Markdown   1 min           ██████░░░░░░░░░░░░░░░░░░░   24.64 %
+Makefile   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+YAML       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+Bash       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
