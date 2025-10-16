@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2025 - To: 14 October 2025
+From: 08 October 2025 - To: 15 October 2025
 
-Total Time: 31 mins
+Total Time: 28 mins
 
-Java       19 mins         ███████████████▓░░░░░░░░░   62.48 %
-Python     5 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
-JSON       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Markdown   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Java       19 mins         █████████████████▒░░░░░░░   69.50 %
+Python     5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.76 %
+Markdown   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
