@@ -8,12 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2025 - To: 04 November 2025
+From: 29 October 2025 - To: 05 November 2025
 
-Total Time: 1 min
+Total Time: 9 mins
 
-XML     1 min           █████████████████▓░░░░░░░   71.32 %
-Other   0 secs          ███████▒░░░░░░░░░░░░░░░░░   28.68 %
+Other      15 mins         ███████████████▓░░░░░░░░░   63.14 %
+JSON       3 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.85 %
+YAML       1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+XML        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
+Markdown   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
