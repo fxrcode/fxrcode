@@ -8,15 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2025 - To: 02 December 2025
+From: 26 November 2025 - To: 03 December 2025
 
-Total Time: 1 hr 35 mins
+Total Time: 0 secs
 
-Python     43 mins         ██████████░░░░░░░░░░░░░░░   40.45 %
-Markdown   39 mins         █████████░░░░░░░░░░░░░░░░   36.41 %
-Other      11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.02 %
-Makefile   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-TOML       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
