@@ -8,11 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2025 - To: 04 December 2025
+From: 28 November 2025 - To: 05 December 2025
 
-Total Time: 0 secs
+Total Time: 4 hrs 47 mins
 
-No activity tracked
+Python     1 hr 46 mins    █████████▒░░░░░░░░░░░░░░░   37.17 %
+TeX        1 hr 33 mins    ████████░░░░░░░░░░░░░░░░░   32.64 %
+CSV        1 hr 9 mins     ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+YAML       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Markdown   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
