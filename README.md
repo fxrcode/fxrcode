@@ -8,11 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2026 - To: 14 January 2026
+From: 08 January 2026 - To: 15 January 2026
 
-Total Time: 4 mins
+Total Time: 23 mins
 
-Go   4 mins          █████████████████████████   100.00 %
+Java       11 mins         ████████████▓░░░░░░░░░░░░   50.70 %
+Markdown   5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.21 %
+Go         4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.12 %
+XML        0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+Text       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
