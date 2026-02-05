@@ -8,12 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 January 2026 - To: 03 February 2026
+From: 28 January 2026 - To: 04 February 2026
 
 Total Time: 21 mins
 
-Markdown   11 mins         █████████████░░░░░░░░░░░░   52.02 %
-CSV        10 mins         ████████████░░░░░░░░░░░░░   47.52 %
+Markdown   11 mins         █████████████░░░░░░░░░░░░   51.38 %
+CSV        10 mins         ███████████▓░░░░░░░░░░░░░   47.33 %
+Java       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
