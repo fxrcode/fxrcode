@@ -8,15 +8,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2026 - To: 19 March 2026
+From: 13 March 2026 - To: 20 March 2026
 
-Total Time: 15 mins
+Total Time: 14 mins
 
-Other   15 mins               ████████████▓░░░░░░░░░░░░   50.04 %
-TeX     9 mins                ███████▓░░░░░░░░░░░░░░░░░   30.81 %
-JSON    5 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
-Mason   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Go      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TeX     9 mins                ███████████░░░░░░░░░░░░░░   43.41 %
+Other   6 mins                ███████▓░░░░░░░░░░░░░░░░░   31.10 %
+JSON    5 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.50 %
 ```
 
 <!--END_SECTION:waka-->
