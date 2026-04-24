@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2026 - To: 22 April 2026
+From: 16 April 2026 - To: 23 April 2026
 
-Total Time: 15 hrs 2 mins
+Total Time: 12 hrs 44 mins
 
-Markdown     7 hrs 25 mins         ██████████░░░░░░░░░░░░░░░   40.49 %
-Other        3 hrs 18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
-CSV          2 hrs 27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-Java         2 hrs 1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
-Text         59 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
+Markdown     7 hrs 12 mins         ███████████▒░░░░░░░░░░░░░   45.53 %
+Other        3 hrs 4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.46 %
+Java         1 hr 7 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+CSV          1 hr 2 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Text         57 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
 ```
 
 <!--END_SECTION:waka-->
