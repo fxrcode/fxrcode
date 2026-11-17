@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2026 - To: 15 November 2026
+From: 09 November 2026 - To: 16 November 2026
 
-Total Time: 3 hrs 17 mins
+Total Time: 5 hrs 1 min
 
-Markdown   1 hr 40 mins          ███████████▓░░░░░░░░░░░░░   47.16 %
-Go         1 hr 25 mins          ██████████░░░░░░░░░░░░░░░   39.97 %
-Other      15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Text       11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
-Python     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Go         2 hrs 42 mins         ████████████▓░░░░░░░░░░░░   50.30 %
+Markdown   1 hr 44 mins          ████████░░░░░░░░░░░░░░░░░   32.34 %
+sh         22 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+Other      21 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Text       11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
