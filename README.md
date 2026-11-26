@@ -8,15 +8,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2026 - To: 24 November 2026
+From: 18 November 2026 - To: 25 November 2026
 
-Total Time: 9 hrs 31 mins
+Total Time: 6 hrs 58 mins
 
-Go           5 hrs 36 mins         ██████████████░░░░░░░░░░░   55.71 %
-Text         1 hr 9 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-TeX          1 hr 1 min            ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-Markdown     55 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 %
-Java         34 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Go         5 hrs 3 mins          ██████████████████░░░░░░░   71.44 %
+TeX        1 hr 1 min            ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
+Java       34 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
+Markdown   9 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Other      7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
